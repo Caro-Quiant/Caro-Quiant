@@ -1,4 +1,4 @@
-**<h2 align="center" class="title">Hi there :wave:, I’m Caroline!</h2>**
+**<h1 align="center" class="title">Hi there :wave:, I’m Caroline!</h2>**
 
 
 <h3>About me :</h3>
@@ -31,7 +31,7 @@
 
 <h3>Soon:</h3>
 
-**<p align="center" class="sizeSoon"> :hammer: &nbsp;I’m currently working on an indie game application</p>**
+**<p align="center"> :hammer_and_wrench: &nbsp;I’m currently working on an indie game application &nbsp;:hammer_and_wrench:</p>**
 
 </br>
 </br>
