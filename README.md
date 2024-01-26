@@ -1,6 +1,5 @@
 **<h2 align="center" class="title">Hi there :wave:, I’m Caroline!</h2>**
 
-<div class="border"></div>
 
 <h3>About me :</h3>
 
@@ -13,25 +12,22 @@
 </br>
 </br>
 
-<div class="border"></div>
 
 <h3>Knowledge :</h3>
 
-<p align="center" class="flex">
-  <img src="./assets/logoInfo/htmlTrans.png" class="widthKnowledge" =70x70/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/logoInfo/cssTrans.png" class="widthKnowledge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/logoInfo/JST.png" class="widthKnowledge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/logoInfo/react_logo.png" class="widthKnowledge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/logoInfo/node_logo.png" class="widthKnowledge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/logoInfo/FlutterT.png" class="widthKnowledge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/logoInfo/git_logo.png" class="widthKnowledge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <img src="./assets/logoInfo/htmlTrans.png" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/logoInfo/cssTrans.png" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/logoInfo/JST.png" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/logoInfo/react_logo.png" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/logoInfo/node_logo.png" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/logoInfo/FlutterT.png" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/logoInfo/git_logo.png" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
 
 </br>
 </br>
-
-<div class="border"></div>
 
 <h3>Soon:</h3>
 
@@ -40,14 +36,14 @@
 </br>
 </br>
 
-<div class="border"></div>
 
 <h3>Contact:</h3>
 
-  <p class="flex" >
-    <a href="mailto:caroline.prouve@gmail.com"><img src="./assets/logoReseaux/mail.png" class="width"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/Caro-Quiant/"><img src="./assets/logoReseaux/github.png" class="width"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/caroline-prouv%C3%A9-4597022a8/"><img src="./assets/logoReseaux/linkedin.png" class="width"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/caroline_prouve/"><img src="./assets/logoReseaux/instagram.png" class="width"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.betrail.run/runner/prouve.caroline/overview"><img src="./assets/logoReseaux/betrail.png" class="width" /></a>
+  <p align="center">
+    <a href="mailto:caroline.prouve@gmail.com"><img src="./assets/logoReseaux/mail.png" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://github.com/Caro-Quiant/"><img src="./assets/logoReseaux/github.png" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/caroline-prouv%C3%A9-4597022a8/"><img src="./assets/logoReseaux/linkedin.png" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/caroline_prouve/"><img src="./assets/logoReseaux/instagram.png" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.betrail.run/runner/prouve.caroline/overview"><img src="./assets/logoReseaux/betrail.png" width="50" height="50"/></a>
   </p>
+
