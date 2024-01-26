@@ -1,4 +1,4 @@
-**<p align="center" class="title">Hi there :wave:, I’m Caroline!</p>**
+**<h2 align="center" class="title">Hi there :wave:, I’m Caroline!</h2>**
 
 <div class="border"></div>
 
@@ -18,7 +18,7 @@
 <h3>Knowledge :</h3>
 
 <p align="center" class="flex">
-  <img src="./assets/logoInfo/htmlTrans.png" class="widthKnowledge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/logoInfo/htmlTrans.png" class="widthKnowledge" =70x70/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/logoInfo/cssTrans.png" class="widthKnowledge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/logoInfo/JST.png" class="widthKnowledge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/logoInfo/react_logo.png" class="widthKnowledge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,35 +51,3 @@
     <a href="https://www.instagram.com/caroline_prouve/"><img src="./assets/logoReseaux/instagram.png" class="width"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.betrail.run/runner/prouve.caroline/overview"><img src="./assets/logoReseaux/betrail.png" class="width" /></a>
   </p>
-
-<style>
-  .title{
-    font-size:40px;
-  }
-  .link{
-    text-decoration:none;
-    color:#000000;
-  }
-  .sizeSoon{
-    font-size:20px;
-  }
-
-  .widthKnowledge{
-    width:70px;
-    height:70px;
-  }
-  .flex{
-    display:flex;
-    flex-flow:row nowrap;
-    justify-content:center;
-  }
-  .width{
-    width:50px;
-    height:50px;
-    background-color:white;
-    border-radius:5px;
-  }
-  .border{
-    border-bottom: 1px solid grey;
-  }
-</style>

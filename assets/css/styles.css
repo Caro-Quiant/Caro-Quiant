@@ -1,0 +1,30 @@
+
+  .title{
+    font-size:40px;
+  }
+  .link{
+    text-decoration:none;
+    color:#000000;
+  }
+  .sizeSoon{
+    font-size:20px;
+  }
+
+  .widthKnowledge{
+    width:70px;
+    height:70px;
+  }
+  .flex{
+    display:flex;
+    flex-flow:row nowrap;
+    justify-content:center;
+  }
+  .width{
+    width:50px;
+    height:50px;
+    background-color:white;
+    border-radius:5px;
+  }
+  .border{
+    border-bottom: 1px solid grey;
+  }
