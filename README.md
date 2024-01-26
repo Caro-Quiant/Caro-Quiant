@@ -1,12 +1,14 @@
 <h1 align="center">Hi there :wave:, I’m Caroline!</h1>  
 
-<h3>About me :</h3>
+### About me :
 
 </br>
 
 **<p align="center">:desktop_computer: &nbsp;Web Developer &nbsp;&nbsp;:iphone: &nbsp;Application Developer &nbsp;&nbsp;:champagne: &nbsp;Reims, France &nbsp;&nbsp;:running_woman: &nbsp;Ultra-trailer &nbsp;&nbsp;:mag: &nbsp;thriller lover &nbsp;&nbsp;:old_key: &nbsp;Escape Game fan</p>**
+
 <p align="center"> 
-<a href="www.caroline-prouve.com" target="_blank">Visit m
+  <a href="www.caroline-prouve.com" target="_blank" style="text-decoration:none;">Visit my personal website !</a>
+</p>
 
 </br>
 </br>
@@ -38,6 +40,8 @@
   <a href="https://www.instagram.com/brunotacca/"><img src="" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brunotacca/"><img src="" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+[about_me_anchor]: ###aboutme--
 
 
 
