@@ -6,7 +6,7 @@
 **<p align="center">:desktop_computer: &nbsp;Web Developer &nbsp;&nbsp;:iphone: &nbsp;Application Developer &nbsp;&nbsp;:champagne: &nbsp;Reims, France &nbsp;&nbsp;:running_woman: &nbsp;Ultra-trailer &nbsp;&nbsp;:mag: &nbsp;thriller lover &nbsp;&nbsp;:old_key: &nbsp;Escape Game fan</p>**
 
 <p align="center"> 
-  <a href="[https//:www.caroline-prouve.com](https://www.caroline-prouve.com/)" >Visit my personal website !</a>
+  <a href="https://www.caroline-prouve.com/" >Visit my personal website !</a>
 </p>
 
 </br>
